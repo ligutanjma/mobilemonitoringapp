@@ -6,6 +6,8 @@
 
 # C:\test\test> cd mobilemonitoringapp
 
+# C:\test\test> yarn add expo 
+
 # C:\test\test> expo install
 
 # C:\test\test> expo start
