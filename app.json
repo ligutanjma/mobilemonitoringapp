@@ -1,0 +1,12 @@
+{
+  "name": "monitoring",
+  "displayName": "monitoring",
+  "expo": {
+    "name": "monitoring",
+    "slug": "monitoring",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
